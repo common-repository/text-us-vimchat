@@ -1,0 +1,9 @@
+.btn-block-vimchat {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+}
+#btn-vim {
+    display: inline-block;
+	z-index:4;
+}
